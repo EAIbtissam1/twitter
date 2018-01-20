@@ -55,5 +55,6 @@ public class TweetStream {
 
         statuses.print();
         jssc.start();
+        System.out.println("yo");
     }
 }
